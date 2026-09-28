@@ -19,18 +19,42 @@ I'm a passionate Frontend Developer focused on building clean, responsive, and u
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
 </p>
 
+## 🚀 What I'm Currently Doing
 
-- 🔭 I'm currently working on frontend development projects.
-- 🌱 I'm currently learning Next.js, TypeScript and modern frontend development.
-- 🤝 I'm interested in collaborating on frontend and beginner-friendly web projects.
-- 💡 I'm always looking for opportunities to improve my coding and problem-solving skills.
+- 🔭 Building frontend development projects.
+- 🌱 Learning Next.js, TypeScript and modern frontend development.
+- 💡 Improving my problem-solving and coding skills.
+- 🤝 Open to collaborating on beginner-friendly web development projects.
 - 💬 Ask me about HTML, CSS, JavaScript, React and frontend development.
 
+---
 
+## 📂 Featured Project
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sharminakther336)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sharmin Akther)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dreamgirl49974/)  
+### 🏋️ Fit Log
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharminakther336)](https://github.com/anuraghazra/github-readme-stats)
+A modern fitness tracking web application built with React, Next.js and TypeScript.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharminakther336&show_icons=true)  
+**Tech Stack:**  
+`Next.js` `TypeScript` `React` `Tailwind CSS`
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Sharminakther336">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/Sharmin.Akther">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" alt="Facebook" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Learning • Building • Growing ✨
+</p>
+ 
 
