@@ -1,4 +1,4 @@
-### Hi there 👋, Hey, I am Sharmin Akther
+### Hi there 👋,I am Sharmin Akther
 #### Front‑end developer
 ![Front‑end developer](https://github.com/Sharminakther336/Sharminakther336/blob/main/ChatGPT%20Image%20Sep%2027%2C%202026%2C%2011_36_03%20PM.png)
 
