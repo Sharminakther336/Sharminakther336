@@ -29,6 +29,8 @@ I'm a passionate Frontend Developer focused on building clean, responsive, and u
   
 </p>
 
+---
+
 ## 🚀 Featured Project
 
 ### 🏋️ Fit Log
@@ -41,6 +43,16 @@ A modern fitness tracking web application designed to help users manage and trac
 
 ---
 
+## 💻 What I Do
+
+| 🌐 Frontend Development | 🎨 UI & UX | 📚 Continuous Learning |
+| :--- | :--- | :--- |
+| Building responsive and interactive websites | Creating clean and user-friendly interfaces | Exploring modern web technologies |
+| React & Next.js development | Responsive design & layouts | Improving problem-solving skills |
+| Writing clean & maintainable code | Mobile-friendly experiences | Learning through real-world projects |
+
+---
+
 ## 🎯 My Current Focus
 
 ```text
@@ -49,4 +61,3 @@ React & Next.js        █████████████████░░
 TypeScript             ███████████████░░░░░  Learning
 UI/UX                  ██████████████░░░░░░  Improving
 Problem Solving        ███████████████░░░░░  Practicing
-
