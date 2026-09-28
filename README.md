@@ -29,42 +29,24 @@ I'm a passionate Frontend Developer focused on building clean, responsive, and u
   
 </p>
 
-## 🚀 What I'm Currently Doing
-
-- 🔭 Building frontend development projects.
-- 🌱 Learning Next.js, TypeScript and modern frontend development.
-- 💡 Improving my problem-solving and coding skills.
-- 🤝 Open to collaborating on beginner-friendly web development projects.
-- 💬 Ask me about HTML, CSS, JavaScript, React and frontend development.
-
----
-
-## 📂 Featured Project
+## 🚀 Featured Project
 
 ### 🏋️ Fit Log
 
-A modern fitness tracking web application built with React, Next.js and TypeScript.
+A modern fitness tracking web application designed to help users manage and track their workout activities.
 
-**Tech Stack:**  
+**Built With**
+
 `Next.js` `TypeScript` `React` `Tailwind CSS`
 
 ---
 
-## 📫 Connect With Me
+## 🎯 My Current Focus
 
-<p align="left">
-  <a href="https://github.com/Sharminakther336">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
-  </a>
-  <a href="https://www.facebook.com/Sharmin.Akther">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" alt="Facebook" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ✨ Learning • Building • Growing ✨
-</p>
- 
+```text
+Frontend Development  ███████████████████░  Learning
+React & Next.js        █████████████████░░░  Building
+TypeScript             ███████████████░░░░░  Learning
+UI/UX                  ██████████████░░░░░░  Improving
+Problem Solving        ███████████████░░░░░  Practicing
 
